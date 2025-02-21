@@ -16,6 +16,7 @@ val bypassIntegrityPatch = bytecodePatch(
         "org.telegram.messenger",
         "org.telegram.messenger.web",
         "uz.unnarsx.cherrygram"
+        "com.iMe.android.web"
     )
 
     execute {
